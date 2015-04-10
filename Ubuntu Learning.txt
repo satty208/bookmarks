@@ -1,0 +1,18 @@
+Ubuntu (meaning -> humanity to others) is an open soucre software that is actively maintained by FLOSS (Free libre open source 
+software) community.
+It is funded and managed bu Caonical private limited. It acts as operating system using linux kernel. Linux and Ubuntu are
+not same. Ubuntu uses linux kernel, so linux is just is just one part of ubuntu.
+
+Kernel is a set of instructions that communicate between the computer software and hardware.
+
+Ubuntu is easy to install and work on. Any support needed for ubuntu can be availed at ubuntu community, and technical
+answers can be answered at launch pad (https://answers.launchpad.net/).
+
+Once you install the ubuntu in your machine, it welcoms you with a plain desktop screen, this screen is UNITY. UNITY is
+the default desktop screen for Ubuntu.
+
+In older releases instead id UNITY Gnome was there.
+
+UNITY consists of Desktop, Panel(top horizonatal column for application's status), Launcher (left vertical column for favorite 
+application) and Dash (to search for applications, folder etc).
+
